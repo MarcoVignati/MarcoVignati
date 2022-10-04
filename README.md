@@ -1,10 +1,11 @@
 <h1>Olá! Meu nome é Marco 👋🏼</h1>
 
 <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=rose_pine"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&theme=rose_pine"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&theme=radical"/>
+ <br><br>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoVignati&theme=radical"/>
 </div>
-
 <div>
   <h2></h2>
   🎓 Análise e Desenvolvimento de Sistemas (ADS) - UNICESUMAR (CURSANDO)<br>
