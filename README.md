@@ -1,4 +1,16 @@
-### Hi there 👋
+<h1>Olá! Meu nome é Marco 👋🏼</h1>
+
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=rose_pine"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&theme=rose_pine"/>
+</div>
+
+<div>
+  <h2></h2>
+  🎓 Análise e Desenvolvimento de Sistemas (ADS) - UNICESUMAR (CURSANDO)<br>
+  📚 Programador FullStack - SENAI (CURSANDO)<br>
+  📩 Email: 4347113@gmail.com<br>
+</div>
 
 <!--
 **MarcoVignati/MarcoVignati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
