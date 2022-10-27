@@ -1,8 +1,8 @@
 <h1>Olá! Meu nome é Marco 👋🏼</h1>
 
 <div align="center">
- <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=radical"/>
- <img width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&hide=html&theme=radical"/>
+ <img width="45%" height="10em" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=radical"/>
+ <img width="45%" height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&hide=html&theme=radical"/>
  <br><br>
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcoVignati&theme=radical"/>
 </div>
