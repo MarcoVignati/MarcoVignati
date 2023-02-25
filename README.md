@@ -14,6 +14,7 @@
 </div>
 
 <h3 align="left">🚀💻 Technologies & Tools</h3>
+<h2></h2>
 <p align="left">
     <img src="https://img.shields.io/badge/HTML5-43D9AD?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1E2D3D?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,7 +30,10 @@
     <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
 <div align="center">
  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&theme=radical"/>
  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&hide=html,css&theme=radical"/>
