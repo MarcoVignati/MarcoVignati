@@ -58,14 +58,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=MarcoVignati&hide_border=true&background=011627&ring=43D9AD&fire=43D9AD&currStreakNum=FFFFFF&sideLabels=43D9AD&border=FFFFFF00&sideNums=FFFFFF&currStreakLabel=43D9AD&dates=FFFFFF"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&hide=html,css&hide_border=true&title_color=43D9AD&icon_color=43D9AD&bg_color=011627&text_color=ffffff"/>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&hide_border=true&title_color=43D9AD&icon_color=43D9AD&bg_color=011627&text_color=ffffff"/>
-</div>
-<div>
   <h2></h2>
   🎓 Software Engineering - UNICESUMAR 1/8<br>
   📚 FullStack Programmer - SENAI (CURSANDO)<br>
