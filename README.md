@@ -27,8 +27,8 @@
 <h2></h2>
 <div align="center">
     <div align="center">
-      <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=MarcoVignati&hide_border=true&background=011627&ring=43D9AD&fire=43D9AD&currStreakNum=FFFFFF&sideLabels=43D9AD&border=FFFFFF00&sideNums=FFFFFF&currStreakLabel=43D9AD&dates=FFFFFF"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoVignati&layout=compact&hide=html,css&hide_border=true&title_color=43D9AD&icon_color=43D9AD&bg_color=011627&text_color=ffffff"/>
+      <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=MarcoVignati&hide_border=true&background=011627&ring=43D9AD&fire=43D9AD&currStreakNum=FFFFFF&sideLabels=43D9AD&border=FFFFFF00&sideNums=FFFFFF&currStreakLabel=43D9AD&dates=FFFFFF"/>
     </div>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarcoVignati&show_icons=true&hide_border=true&title_color=43D9AD&icon_color=43D9AD&bg_color=011627&text_color=ffffff"/>
     
