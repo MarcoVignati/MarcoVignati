@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=MarcoVignati&style=flat-square&color=43D9AD" alt=""/>
-<p style="font-size: 30px;"align="center">Hi 👋, I'm Marco</p>
+<p font-size="30px" align="center">Hi 👋, I'm Marco</p>
 <h3 align="center">A passionate frontend student from Brazil</h3>
 <div id="badges" align="center">
   <a href="http://marcoavignati.com/">
