@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<div style="background-color: #21262D; width: 95%; height: 1px; margin: 1rem auto 1rem auto"></div>
+<div style="background-color: #21262D; width: 95%; height: 1px; margin: 1rem auto 5rem auto"></div>
 
 <div style="display: flex; align-items: center; margin: 0.75rem 0 0.75rem 0">
     <div style="width: 50%;">
