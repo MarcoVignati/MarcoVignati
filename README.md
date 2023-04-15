@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </p>
-
+<h2></h2>
 <div align="center">
     <div align="center">
       <img width="49%" src="http://github-readme-streak-stats.herokuapp.com?user=MarcoVignati&hide_border=true&background=011627&ring=43D9AD&fire=43D9AD&currStreakNum=FFFFFF&sideLabels=43D9AD&border=FFFFFF00&sideNums=FFFFFF&currStreakLabel=43D9AD&dates=FFFFFF"/>
