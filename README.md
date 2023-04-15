@@ -1,5 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=MarcoVignati&style=flat-square&color=43D9AD" alt=""/>
-<h1 align="center">Hi 👋, I'm Marco</h1>
+<h2 align="center">Hi 👋, I'm Marco</h2>
 <h3 align="center">A passionate frontend student from Brazil</h3>
 <div id="badges" align="center">
   <a href="http://marcoavignati.com/">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-1E2D3D?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
+<h2></h2>
 <h3 align="left">🚀💻 Technologies & Tools</h3>
 <h2></h2>
 <p align="center">
