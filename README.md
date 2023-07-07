@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=MarcoVignati&style=flat-square&color=43D9AD" alt=""/>
 <h1 align="center">Hi 👋, I'm Marco</h1>
 <h3 align="center">A passionate frontend student from Brazil</h3>
 <div id="badges" align="center">
