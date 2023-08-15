@@ -34,7 +34,7 @@
 </div>
 <div>
   <h2></h2>
-  🎓 Software Engineering - UNICESUMAR 1/8<br>
+  🎓 Software Engineering - UNICESUMAR 2/8<br>
   📚 FullStack Programmer - SENAI (CURSANDO)<br>
   📩 Email: marcoavignati@gmail.com<br>
 </div>
