@@ -22,7 +22,7 @@
 </div>
 <div>
   <h2></h2>
-  🎓 Software Engineering - UNICESUMAR 2/8<br>
+  🎓 Software Engineering - UNICESUMAR 3/8<br>
   📩 Email: marcovignatidev@gmail.com<br>
 </div>
 
